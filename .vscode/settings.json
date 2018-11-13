@@ -1,6 +1,0 @@
-{
-    "npm-scripts.showStartNotification": false,
-    "editor.tabSize": 2,
-    "react.beautify.formatter": "esformatter",
-    "editor.detectIndentation": false
-}
