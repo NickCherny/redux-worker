@@ -1,0 +1,7 @@
+{
+  "path": {
+    "dist": "./dist",
+    "source": "./src"
+  },
+  "formats": ["es", "cjs", "umd", "min"]
+}
